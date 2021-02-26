@@ -17,9 +17,6 @@
         <tr>
             <td colspan="2">
                 <uc1:SelectableList runat="server" id="SelectableList1" Title="Hobbies" InitialItems="Swimming, Hiking, Biking" />
-                <br />
-                <br />
-                
             </td>
         </tr>
     </table>
